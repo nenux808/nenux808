@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADEF&size=28&center=true&vCenter=true&width=600&lines=Chamithu+Nenuka;Cybersecurity+Student;Full+Stack+Developer;Founder+of+Nenux)
+
 # Hi, I'm Chamithu Nenuka 👋
 
 Cybersecurity Student | Full-Stack Developer | Founder of Nenux Web Solutions
