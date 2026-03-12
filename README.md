@@ -1,10 +1,10 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADEF&size=28&center=true&vCenter=true&width=600&lines=Chamithu+Nenuka+/Nenux/;Cybersecurity;Full+Stack+Developer;Founder+of+Nenux+Web+Solutions)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chamithu%20Nenuka&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# Hi, I'm Chamithu Nenuka 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADEF&size=28&center=true&vCenter=true&width=600&lines=Chamithu+Nenuka+/Nenux/;Cybersecurity;Full+Stack+Developer;Founder+of+Nenux+Web+Solutions)
+
+# Hi, I'm Chamithu Nenuka (Nenux)👋
 
 Cybersecurity student based in Melbourne, Australia.
 
