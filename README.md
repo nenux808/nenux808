@@ -1,85 +1,65 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADEF&size=28&center=true&vCenter=true&width=600&lines=Chamithu+Nenuka+/Nenux/;Cybersecurity;Full+Stack+Developer;Founder+of+Nenux+Web+Solutions)
 
-# Hi, I'm Chamithu Nenuka (Nenux)👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chamithu%20Nenuka&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Cybersecurity Student | Full-Stack Developer | Founder of Nenux Web Solutions
+# Hi, I'm Chamithu Nenuka 👋
 
-I enjoy building real-world digital systems that solve practical problems.  
-My work focuses on **secure web applications, scalable backend systems, and business automation platforms**.
+Cybersecurity student based in Melbourne, Australia.
 
-Currently exploring:
-- Cybersecurity
-- Secure Web Development
-- Cloud Systems
-- Modern Full-Stack Technologies
+Founder of **Nenux Web Solutions**, where I build digital platforms, software systems, and technology-driven brands. I enjoy creating real-world solutions — from web platforms and automation tools to secure applications and startup ideas.
 
 ---
 
 ## 🚀 Projects
 
-### Stella Events
-A modern event ticketing platform built for performance.
+**Stella Events**  
+Modern event ticketing platform with Stripe payments, QR ticket validation, and real-time event check-ins.
 
-Features:
-- Stripe payment integration
-- Automated digital tickets
-- QR-based event check-in
-- Mobile optimized checkout
+**Gami Gedara**  
+Restaurant ordering and management system with meal pack ordering, kitchen workflow, and admin dashboard.
 
----
+**TW AutoTune**  
+Automotive workshop management system designed to streamline bookings, services, and customer management.
 
-### Gami Gedara
-A custom restaurant ordering and management system.
-
-Features:
-- Meal pack ordering system
-- Kitchen order workflow
-- Real-time order tracking
-- Admin dashboard
+**Nenux Wear**  
+An upcoming streetwear clothing brand focused on modern design and online-first retail.
 
 ---
 
-### TW AutoTune
-An automotive service management platform.
+## 🧠 Interests
 
-Features:
-- Customer booking system
-- Workshop management
-- Service tracking
-- Business workflow automation
+- Cybersecurity  
+- Full-stack development  
+- Secure web applications  
+- Startup technology products  
 
 ---
 
 ## 🛠 Tech Stack
 
-Frontend  
-React • Next.js • HTML • CSS • JavaScript • TypeScript
+**Frontend**  
+HTML • CSS • JavaScript • React • Next.js
 
-Backend  
+**Backend**  
 Node.js • Supabase • Firebase
 
-Payments  
-Stripe
-
-Tools  
-Git • GitHub • VS Code
+**Tools**  
+Git • GitHub • VS Code • Stripe
 
 ---
 
 ## 🌏 About Me
 
-- Cybersecurity student based in **Melbourne, Australia**
-- Founder of **Nenux Web Solutions**
-- Interested in **secure systems and scalable platforms**
-- Building technology that helps businesses run better
+📍 Melbourne, Australia  
+🚀 Founder — Nenux Web Solutions  
+🌐 https://nenux.com.au  
+
+Always learning. Always building.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-Email: chamithu.peiris@outlook.com  
-Website: https://nenux.com.au
-
----
-
-⭐ Always learning. Always building.
+![Chamithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nenux808&show_icons=true&theme=tokyonight)
